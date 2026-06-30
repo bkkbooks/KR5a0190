@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR5a0190/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0190/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶朝天謝罪大懺
+  date: '2015-08-28 23:40:15.020739'
+  source:
+    repository: kanripo
+    path: KR5a0190
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0190_000-CK-KZ-jye.yaml, hash: 'sha256:ad58bce1e9c26ed3abfa6c20c0f4ce4c92ccd307d2ffd6154362f9a83af1f46b'}
+  - {seq: 1, filename: KR5a0190_001-CK-KZ-jye.yaml, hash: 'sha256:d2763a2d9b22f877e92044083eda0904842ca280de5140e213ee223507004ad4'}
+  - {seq: 2, filename: KR5a0190_002-CK-KZ-jye.yaml, hash: 'sha256:e35ffb058a8c2c13e8508d3b2740300d23328b2df9f0de3de3e223b6fd3db102'}
+  - {seq: 3, filename: KR5a0190_003-CK-KZ-jye.yaml, hash: 'sha256:d9769a48a2e1e0de67871b2c6f6037c0a12c904096f5e22b8f9d48ce0ae9935b'}
+  - {seq: 4, filename: KR5a0190_004-CK-KZ-jye.yaml, hash: 'sha256:95351008f57761e24b4190225a749ecd32d4e9131e4570059c89debdcf9d4ba1'}
+  - {seq: 5, filename: KR5a0190_005-CK-KZ-jye.yaml, hash: 'sha256:0caabeb830a71b0faeba020b5353b24e341b4057422ddeee2f884e90a3304a0b'}
+  - {seq: 6, filename: KR5a0190_006-CK-KZ-jye.yaml, hash: 'sha256:fc81f36c03fbe03f1ddcdb4c3001fda3a284abae2f3739859a7f05eed7f14d6a'}
+  - {seq: 7, filename: KR5a0190_007-CK-KZ-jye.yaml, hash: 'sha256:854a8e1f57b461c4c8892c68485e159fc5b4da007ef7deb47c5defc4fbe8d4b3'}
+  - {seq: 8, filename: KR5a0190_008-CK-KZ-jye.yaml, hash: 'sha256:a9b2c26143397256af257a7040f8e592b443dae38cd04bd8d8d1b5aadc8870f9'}
+  - {seq: 9, filename: KR5a0190_009-CK-KZ-jye.yaml, hash: 'sha256:e29e3b43e90c58ae002d916c07b0b98b70f660deff40519df510b0bcc50f6344'}
+  - {seq: 10, filename: KR5a0190_010-CK-KZ-jye.yaml, hash: 'sha256:c3118c40b33a49e4cc9c719fb1c6dead0f704f8c590fab46f82d52f07a491913'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5a0190_001-CK-KZ-jye.markers.yaml, hash: 'sha256:8e8940aa4a3e5595e3d772aedfa681c40a80121db8266a93a566e74cb996f8ae'}
+  - {seq: 2, role: markers, filename: assets/KR5a0190_002-CK-KZ-jye.markers.yaml, hash: 'sha256:2fed2e3940f306593910c97ab75be4964b1e75741b7ed14b2db0d756b9bf4b91'}
+  - {seq: 3, role: markers, filename: assets/KR5a0190_003-CK-KZ-jye.markers.yaml, hash: 'sha256:425bb3bff635e4e22535722ac8047704d5814a5524d052b4f9bde3740b64f45e'}
+  - {seq: 4, role: markers, filename: assets/KR5a0190_004-CK-KZ-jye.markers.yaml, hash: 'sha256:05dd0a9ef067abb49da85cc268023f0c3c1c5d27c992fa945034e1f211723737'}
+  - {seq: 5, role: markers, filename: assets/KR5a0190_005-CK-KZ-jye.markers.yaml, hash: 'sha256:31f4c9f8a747ec7dd921c7d36db0d3deba385eab29a344a4cce85dd673946f31'}
+  - {seq: 6, role: markers, filename: assets/KR5a0190_006-CK-KZ-jye.markers.yaml, hash: 'sha256:2363d26fdb7c40e75287617edfb45f85fde196d5204fbd930bad68101e41fa8b'}
+  - {seq: 7, role: markers, filename: assets/KR5a0190_007-CK-KZ-jye.markers.yaml, hash: 'sha256:1dcbfdbc0e85f12470acdefebd54e42f3a33cb005e2fad21e0df3a8aa69c5bb4'}
+  - {seq: 8, role: markers, filename: assets/KR5a0190_008-CK-KZ-jye.markers.yaml, hash: 'sha256:6e8a6ebaabf4c15f4b234e6dbca048b4e48e13f94600162c3d0096cef78f708b'}
+  - {seq: 9, role: markers, filename: assets/KR5a0190_009-CK-KZ-jye.markers.yaml, hash: 'sha256:0465a90e227fb1bf22cd5efff424860af3812a0a6a6c13ed8d099996d80946f4'}
+  - {seq: 10, role: markers, filename: assets/KR5a0190_010-CK-KZ-jye.markers.yaml, hash: 'sha256:3f1cab77eff0b177a05da6c5d0f7788201fa77cf6a0c5254c22bce6e1bd4f4cd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0190_CK-KZ_01p001a
+    span:
+    - body
+    - 0
+    - 386
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0190_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 115
+    - 3485
+  label: 太上靈寶朝天謝罪法懴卷¶¶¶¶¶¶<md:KR5a0190_HFL_002-001a>¶二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0190_CK-KZ_03p001a
+    span:
+    - body
+    - 0
+    - 1548
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0190_CK-KZ_03p008b
+    span:
+    - body
+    - 0
+    - 1529
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5a0190_CK-KZ_05p001a
+    span:
+    - body
+    - 0
+    - 513
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5a0190_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 3034
+  label: 太上靈寶朝天謝罪法懴卷¶<md:KR5a0190_HFL_006-001a>¶六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5a0190_CK-KZ_07p001a
+    span:
+    - body
+    - 0
+    - 41
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5a0190_CK-KZ_08p001a
+    span:
+    - body
+    - 0
+    - 41
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5a0190_CK-KZ_09p001a
+    span:
+    - body
+    - 0
+    - 41
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5a0190_CK-KZ_10p001a
+    span:
+    - body
+    - 0
+    - 104
+  label: juan 010
+  type: section
+  level: 1
+hash: sha256:968423b37b12181a7ca22cd131f5479cd22adba2b91d2a45de401929080db722
