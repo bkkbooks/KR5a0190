@@ -63,6 +63,7 @@ markers:
       ', id: KR5a0190_YP-C_010-bkkkrnewl12}
   - {type: line-break, offset: 206, content: '', id: KR5a0190_CK-KZ_10p001b01}
   - {type: punctuation, offset: 208, content: (, id: KR5a0190_YP-C_010-bkkpn1}
+  - {type: voice, offset: 208, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 209, content: ), id: KR5a0190_YP-C_010-bkkpn2}
   - {type: line-break, offset: 217, content: '', id: KR5a0190_CK-KZ_10p001b02}
   - {type: 'kr:newline', offset: 230, content: '
@@ -732,6 +733,7 @@ markers:
   - {type: line-break, offset: 2539, content: '', id: KR5a0190_CK-KZ_10p007a26}
   - {type: line-break, offset: 2547, content: '', id: KR5a0190_CK-KZ_10p007a27}
   - {type: punctuation, offset: 2547, content: (, id: KR5a0190_YP-C_010-bkkpn3}
+  - {type: voice, offset: 2547, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 2561, content: ), id: KR5a0190_YP-C_010-bkkpn4}
   - {type: 'kr:newline', offset: 2561, content: '
 
@@ -786,6 +788,7 @@ markers:
   - {type: line-break, offset: 2722, content: '', id: KR5a0190_CK-KZ_10p007b19}
   - {type: line-break, offset: 2726, content: '', id: KR5a0190_CK-KZ_10p007b20}
   - {type: punctuation, offset: 2726, content: (, id: KR5a0190_YP-C_010-bkkpn5}
+  - {type: voice, offset: 2726, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 2730, content: ), id: KR5a0190_YP-C_010-bkkpn6}
   - {type: 'kr:newline', offset: 2730, content: '
 
@@ -943,9 +946,10 @@ markers:
       ', id: KR5a0190_YP-C_010-bkkkrnewl10}
   - {type: line-break, offset: 93, content: '', id: KR5a0190_CK-KZ_10p009a07}
   - {type: punctuation, offset: 102, content: (, id: KR5a0190_YP-C_010-bkkpn1}
+  - {type: voice, offset: 102, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 104, content: ), id: KR5a0190_YP-C_010-bkkpn2}
   - {type: 'kr:newline', offset: 104, content: '
 
       ', id: KR5a0190_YP-C_010-bkkkrnewl11}
   back: []
-hash: sha256:f042c82efdfdb882deaeb5b51ff78c61d313c756d70efaf0eb6b593c61cd6660
+hash: sha256:a11d7e9bf367576d95161824e3ccc157de012307a3ca6b1a2ca6fb000525250d

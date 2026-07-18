@@ -2708,6 +2708,7 @@ markers:
   - {type: variant, offset: 1759, length: 7, content: 衆别本作玉瑠抱, CK-KZ-jye: 眾}
   - {type: variant, offset: 1759, length: 7, content: 衆别本作玉瑠抱, YP-C: 眾}
   - {type: punctuation, offset: 1760, content: (, id: KR5a0190_krp_010-bkkpn1}
+  - {type: voice, offset: 1760, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 1763, content: /, id: KR5a0190_krp_010-bkkpn2}
   - {type: substitution, offset: 1764, original: 瑠, replacement: 琉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17263}}
   - {type: punctuation, offset: 1765, content: ), id: KR5a0190_krp_010-bkkpn3}
@@ -2929,4 +2930,4 @@ markers:
   - {type: variant, offset: 1992, length: 0, content: '', CK-KZ-jye: 終讚元始上帝普被羣生演說十戒度人民句句聖賢心流傅洪文頂禮削罪因大聖元始宥罪大天尊三稱}
   - {type: variant, offset: 1992, length: 0, content: '', YP-C: 終讚元始上帝普被羣生演說十戒度人民句句聖賢心流傅洪文頂禮削罪因大聖元始宥罪大天尊三稱}
   back: []
-hash: sha256:f21b60098c659e4d1c1c5bc0c0b1c6e2a297a866cd163f3cf6ce1fa7a6dfaa37
+hash: sha256:2b6e90372454c1d8a2a33d31410c697f6bf32681fe1654bf70ac6feadd671065
